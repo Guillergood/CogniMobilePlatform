@@ -1,0 +1,6 @@
+[submodule "CognimobileDashboard"]
+	path = CognimobileDashboard
+	url = https://github.com/Guillergood/CognimobileDashboard.git
+[submodule "CogniMobileApp"]
+	path = CogniMobileApp
+	url = https://github.com/Guillergood/CogniMobileApp.git
