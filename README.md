@@ -25,7 +25,7 @@ A *standalone* app and a dashboard.
 
 The Cognimobile Platform license is: https://github.com/Guillergood/CogniMobilePlatform/blob/master/LICENSE
 
-The documentation license is under
+The documentation license is under Creative Commons Attribution-ShareAlike 4.0 International.
 
 
 
